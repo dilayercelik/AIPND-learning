@@ -1,7 +1,7 @@
 # AIPND-learning
 Code and associated files for the AI Programming with Python Udacity Nanodegree Program
 
-This repository contains the code files that I have used, filled in or created to accompany my learning throughout the course of the AI with Python Nanodegree offered at Udacity.
+This repository contains the code files that I have used, filled in or created to accompany my learning throughout the course of the AI with Python Nanodegree offered by Udacity.
 
 ![](https://github.com/dilayercelik/AIPND-learning/blob/master/AIPND%20logo.jpg)
 
