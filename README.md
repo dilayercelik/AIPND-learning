@@ -5,7 +5,7 @@ This repository contains the code files that I have used, filled in or created t
 
 ![](https://github.com/dilayercelik/AIPND-learning/blob/master/AIPND%20logo.jpg)
 
-# The Nanodegree:
+# The Nanodegree Outline
 
 Main sections:
 1. Introduction to Programming
